@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeetzVision
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in... Web3, BlockChain and Wordpress. 
 - 🎓 I’m currently learning ... Wordpress and Web3. 
 - 🧬 I'm currently in IT management and run my own Website and tech blog (Deetzvision.com).
